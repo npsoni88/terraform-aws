@@ -6,3 +6,4 @@ resource "aws_s3_bucket" "terraform-state" {
         Name = "Terraform state"
     }
 }
+# this is a comment
